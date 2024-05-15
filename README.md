@@ -8,14 +8,14 @@
 - **Frameworks & Libraries**: React, Next.js, Node.js, FastAPI
 - **Tools & Platforms**: GitHub, Docker, AWS, Vercel, Vagrant,
 # Key Projects 📚
-- [ft_transcendence](https://link-url-here.org):  real-time multiplayer Pong game platform built using Next js 14 and Nest js
-- [WEBSERV](): An HTTP server from scratch built in C++98 with non-blocking I/O using poll().
-- [Inception](): Learning System administration and DevOps through the containerization of a Wordpress website using   `Mariadb` `Nginx` `Docker` `php-fpm`
+- [ft_transcendence](https://github.com/yassir58/ft_transcendence.git):  real-time multiplayer Pong game platform built using Next js 14 and Nest js
+- [WEBSERV](https://github.com/yassir58/webserv.git): An HTTP server from scratch built in C++98 with non-blocking I/O using poll().
+- [Inception](https://github.com/yassir58/Inception-42.git): Learning System administration and DevOps through the containerization of a Wordpress website using   `Mariadb` `Nginx` `Docker` `php-fpm`
 # Professional Goals 🚀
 - **Career Development**: Focused on furthering my career in software development by working with high-performing teams and actively upskilling my collaboration skills.
 - **Continuous Learning**: Committed to ongoing professional development by staying updated with the latest tech trends and advancing my coding skills. 📈
 # Connect with Me 📬
-- 📫 [Email]()
-- 🔗 [LinkedIn]()
+- 📫 [Email](elatmaniyassir3@gmail.com)
+- 🔗 [LinkedIn](in/yassir-el-atmani-5b5535195)
   
 I’m looking forward to collaborating on projects that are at the intersection of technology and social good. Let’s connect! 🌍
